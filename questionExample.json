@@ -1,0 +1,1605 @@
+{
+  "questions": [
+    {
+      "question": "1",
+      "question_text": "The shaded area of the diagram represents structures found in both plant and animal cells. Which cell structure is from the shaded area?",
+      "options": [
+        "A: cell membrane",
+        "B: cell wall",
+        "C: chloroplast",
+        "D: large vacuole"
+      ],
+      "correct_answer": "A",
+      "question_type": {
+        "category": "Knowledge recall",
+        "subtopic": "Cell biology"
+      },
+      "concept_tested": {
+        "core_concept": "Cell structure and function in plants and animals",
+        "key_principles": "Understanding similarities and differences between plant and animal cells."
+      },
+      "knowledge_requirement": {
+        "required_facts": "Both plant and animal cells have a cell membrane.",
+        "common_misconceptions": "Students may confuse the cell membrane with the cell wall."
+      },
+      "skill_requirement": {
+        "analytical_skills": "Ability to differentiate between plant and animal cell structures.",
+        "mathematical_skills": "None"
+      },
+      "answer_strategy": {
+        "approach": "Identify the structures common to both cell types and eliminate those exclusive to plant cells.",
+        "elimination_tactics": "Eliminate 'cell wall', 'chloroplast', and 'large vacuole' as they are exclusive to plant cells."
+      },
+      "traps_pitfalls": {
+        "common_mistakes": "Confusing cell membrane with cell wall.",
+        "confusing_elements": "Cell wall and cell membrane are easily mixed up."
+      },
+      "diagram_analysis": {
+        "diagram_presence": "false",
+        "importance": "",
+        "diagram_description": ""
+      }
+    },
+    {
+      "question": "2",
+      "question_text": "What is the correct order of increasing size of the following structures, from smallest to largest?",
+      "options": [
+        "A: chromosome → liver → white blood cell",
+        "B: chromosome → white blood cell → liver",
+        "C: liver → chromosome → white blood cell",
+        "D: white blood cell → liver → chromosome"
+      ],
+      "correct_answer": "B",
+      "question_type": {
+        "category": "Application",
+        "subtopic": "Cell biology"
+      },
+      "concept_tested": {
+        "core_concept": "Relative size of biological structures",
+        "key_principles": "Size hierarchy of biological components, from cells to organs."
+      },
+      "knowledge_requirement": {
+        "required_facts": "Chromosomes are smaller than cells, and cells are smaller than organs like the liver.",
+        "common_misconceptions": "Confusion between the sizes of cells, organs, and subcellular structures."
+      },
+      "skill_requirement": {
+        "analytical_skills": "Ability to visualize the relative size of biological structures.",
+        "mathematical_skills": "None"
+      },
+      "answer_strategy": {
+        "approach": "Recognize the size relationship between chromosomes, cells, and organs.",
+        "elimination_tactics": "Eliminate options that incorrectly place larger structures before smaller ones."
+      },
+      "traps_pitfalls": {
+        "common_mistakes": "Mistaking the size of cells compared to organs.",
+        "confusing_elements": "The names of structures may lead to assumptions about their relative size."
+      },
+      "diagram_analysis": {
+        "diagram_presence": "false",
+        "importance": "",
+        "diagram_description": ""
+      }
+    },
+    {
+      "question": "3",
+      "question_text": "Which row describes a root hair cell?",
+      "options": [
+        "A: allows water to pass into the plant, increases the surface area of the root, loses water by transpiration",
+        "B: allows water to pass into the plant, increases the surface area of the root, does not lose water by transpiration",
+        "C: allows water to pass into the plant, does not increase the surface area of the root, loses water by transpiration",
+        "D: does not allow water to pass into the plant, increases the surface area of the root, loses water by transpiration"
+      ],
+      "correct_answer": "B",
+      "question_type": {
+        "category": "Application",
+        "subtopic": "Transport in plants"
+      },
+      "concept_tested": {
+        "core_concept": "Root hair cell function",
+        "key_principles": "Water absorption and surface area."
+      },
+      "knowledge_requirement": {
+        "required_facts": "Root hair cells absorb water and minerals and increase the surface area of roots.",
+        "common_misconceptions": "Students may think root hair cells lose water through transpiration."
+      },
+      "skill_requirement": {
+        "analytical_skills": "Ability to evaluate the function and characteristics of specialized cells.",
+        "mathematical_skills": "None"
+      },
+      "answer_strategy": {
+        "approach": "Identify the correct function of root hair cells based on knowledge of plant transport systems.",
+        "elimination_tactics": "Eliminate rows where the root hair cell is described as losing water through transpiration."
+      },
+      "traps_pitfalls": {
+        "common_mistakes": "Confusion between root hair cells and leaf structures in terms of water loss.",
+        "confusing_elements": "The inclusion of water loss may mislead students."
+      },
+      "diagram_analysis": {
+        "diagram_presence": "false",
+        "importance": "",
+        "diagram_description": ""
+      }
+    },
+    {
+      "question": "4",
+      "question_text": "The diagram shows an experiment on osmosis. Which arrow shows the direction of the net movement of water at the start of the experiment?",
+      "options": [
+        "A: arrow 1",
+        "B: arrow 2",
+        "C: arrow 3",
+        "D: arrow 4"
+      ],
+      "correct_answer": "B",
+      "question_type": {
+        "category": "Application",
+        "subtopic": "Osmosis"
+      },
+      "concept_tested": {
+        "core_concept": "Osmosis",
+        "key_principles": "Water moves from an area of higher water potential to lower water potential."
+      },
+      "knowledge_requirement": {
+        "required_facts": "Understanding water potential and osmotic gradients.",
+        "common_misconceptions": "Students may confuse the direction of osmosis."
+      },
+      "skill_requirement": {
+        "analytical_skills": "Ability to interpret diagrams and understand movement of molecules.",
+        "mathematical_skills": "None"
+      },
+      "answer_strategy": {
+        "approach": "Identify areas of higher and lower water potential and predict the movement of water.",
+        "elimination_tactics": "Eliminate arrows that do not correspond to water moving from higher to lower potential."
+      },
+      "traps_pitfalls": {
+        "common_mistakes": "Misinterpreting water potential or the direction of water flow.",
+        "confusing_elements": "Diagrams can be misleading if students do not understand water potential."
+      },
+      "diagram_analysis": {
+        "diagram_presence": "true",
+        "importance": "Critical for understanding the question.",
+        "diagram_description": "Shows a setup for osmosis with arrows indicating potential water movement."
+      }
+    },
+    {
+      "question": "5",
+      "question_text": "The graph shows the effect of oxygen concentration on the uptake of nitrate ions from the soil into a root hair cell. What can be concluded from this information?",
+      "options": [
+        "A: Nitrate ions enter the root hair cell by active transport.",
+        "B: Nitrate ions enter the root hair cell by osmosis.",
+        "C: Nitrate ions leave the root hair cell by diffusion.",
+        "D: Nitrate ions leave the root hair cell in low oxygen concentrations."
+      ],
+      "correct_answer": "A",
+      "question_type": {
+        "category": "Analysis",
+        "subtopic": "Active transport and respiration"
+      },
+      "concept_tested": {
+        "core_concept": "Active transport and its dependence on respiration.",
+        "key_principles": "Understanding how oxygen concentration affects energy-requiring processes like active transport."
+      },
+      "knowledge_requirement": {
+        "required_facts": "Active transport requires energy from respiration, which is affected by oxygen availability.",
+        "common_misconceptions": "Students may confuse active transport with diffusion or osmosis."
+      },
+      "skill_requirement": {
+        "analytical_skills": "Interpreting graphs and linking oxygen concentration to biological processes.",
+        "mathematical_skills": "Understanding rates and gradients."
+      },
+      "answer_strategy": {
+        "approach": "Recognize that active transport requires oxygen for respiration, which produces energy.",
+        "elimination_tactics": "Eliminate options that incorrectly describe the role of oxygen or nitrate ion movement."
+      },
+      "traps_pitfalls": {
+        "common_mistakes": "Confusing active transport with passive processes like osmosis or diffusion.",
+        "confusing_elements": "The graph may mislead students if they do not link oxygen to respiration."
+      },
+      "diagram_analysis": {
+        "diagram_presence": "true",
+        "importance": "Essential for interpreting the question.",
+        "diagram_description": "A graph showing nitrate ion uptake and oxygen concentration."
+      }
+    },
+    {
+      "question": "6",
+      "question_text": "Which biological molecules always contain the element nitrogen?",
+      "options": [
+        "A: amino acids, cellulose, DNA",
+        "B: amino acids, DNA, lipids",
+        "C: enzymes, plasma proteins, DNA",
+        "D: membrane proteins, starch, lipids"
+      ],
+      "correct_answer": "C",
+      "question_type": {
+        "category": "Knowledge recall",
+        "subtopic": "Biological molecules"
+      },
+      "concept_tested": {
+        "core_concept": "Nitrogen-containing biological molecules",
+        "key_principles": "Understanding which biomolecules contain nitrogen."
+      },
+      "knowledge_requirement": {
+        "required_facts": "Proteins and nucleic acids contain nitrogen, but not lipids or carbohydrates.",
+        "common_misconceptions": "Students may think all biological molecules contain nitrogen."
+      },
+      "skill_requirement": {
+        "analytical_skills": "None",
+        "mathematical_skills": "None"
+      },
+      "answer_strategy": {
+        "approach": "Identify biomolecules that are known to contain nitrogen, such as proteins and DNA.",
+        "elimination_tactics": "Eliminate options that include molecules like lipids or carbohydrates, which do not contain nitrogen."
+      },
+      "traps_pitfalls": {
+        "common_mistakes": "Assuming all biological molecules contain nitrogen.",
+        "confusing_elements": "The inclusion of carbohydrates and lipids may confuse students."
+      },
+      "diagram_analysis": {
+        "diagram_presence": "false",
+        "importance": "",
+        "diagram_description": ""
+      }
+    },
+    {
+      "question": "7",
+      "question_text": "Amylase solution is tested with Benedict’s solution, biuret solution and iodine solution. Which colours are obtained?",
+      "options": [
+        "A: blue, blue, blue-black",
+        "B: blue, blue, brown",
+        "C: blue, purple, brown",
+        "D: red, purple, blue-black"
+      ],
+      "correct_answer": "C",
+      "question_type": {
+        "category": "Application",
+        "subtopic": "Biological molecules and testing"
+      },
+      "concept_tested": {
+        "core_concept": "Testing for the presence of sugars, proteins, and starch.",
+        "key_principles": "Biuret tests for proteins, Benedict’s for reducing sugars, iodine for starch."
+      },
+      "knowledge_requirement": {
+        "required_facts": "Understand how Benedict’s, biuret, and iodine tests indicate the presence of different molecules.",
+        "common_misconceptions": "Students may confuse the test results for starch, protein, and sugar."
+      },
+      "skill_requirement": {
+        "analytical_skills": "Interpreting test results to identify biological molecules.",
+        "mathematical_skills": "None"
+      },
+      "answer_strategy": {
+        "approach": "Memorize the specific test results and apply them to each option.",
+        "elimination_tactics": "Eliminate options that do not align with the expected colors for each test."
+      },
+      "traps_pitfalls": {
+        "common_mistakes": "Confusing the results of the three tests.",
+        "confusing_elements": "Similar colors between tests may cause confusion."
+      },
+      "diagram_analysis": {
+        "diagram_presence": "false",
+        "importance": "",
+        "diagram_description": ""
+      }
+    },
+    {
+      "question": "8",
+      "question_text": "The diagrams show a protease enzyme catalysing the breaking of part of a protein molecule into smaller pieces. Which diagram has three correct labels?",
+      "options": [
+        "A: Diagram A",
+        "B: Diagram B",
+        "C: Diagram C",
+        "D: Diagram D"
+      ],
+      "correct_answer": "C",
+      "question_type": {
+        "category": "Analysis",
+        "subtopic": "Enzymes"
+      },
+      "concept_tested": {
+        "core_concept": "Protease action on proteins",
+        "key_principles": "Understanding enzyme function and the breaking of peptide bonds."
+      },
+      "knowledge_requirement": {
+        "required_facts": "Proteases break down proteins into smaller peptides or amino acids.",
+        "common_misconceptions": "Confusion between different types of enzymes."
+      },
+      "skill_requirement": {
+        "analytical_skills": "Interpreting enzyme-substrate interaction diagrams.",
+        "mathematical_skills": "None"
+      },
+      "answer_strategy": {
+        "approach": "Evaluate each diagram based on knowledge of protease function.",
+        "elimination_tactics": "Eliminate diagrams with incorrect labels or placements."
+      },
+      "traps_pitfalls": {
+        "common_mistakes": "Misidentifying enzyme or substrate in the diagram.",
+        "confusing_elements": "Diagrams may appear similar but contain subtle errors in labeling."
+      },
+      "diagram_analysis": {
+        "diagram_presence": "true",
+        "importance": "Essential for answering the question.",
+        "diagram_description": "Diagrams of enzyme catalysis, showing substrate breakdown."
+      }
+    },
+    {
+      "question": "9",
+      "question_text": "Which graph shows the effect of temperature on the activity of an enzyme?",
+      "options": [
+        "A: Graph A",
+        "B: Graph B",
+        "C: Graph C",
+        "D: Graph D"
+      ],
+      "correct_answer": "A",
+      "question_type": {
+        "category": "Analysis",
+        "subtopic": "Enzymes and temperature"
+      },
+      "concept_tested": {
+        "core_concept": "Temperature's effect on enzyme activity",
+        "key_principles": "Enzyme activity increases with temperature until it denatures."
+      },
+      "knowledge_requirement": {
+        "required_facts": "Enzymes have an optimal temperature range and denature at high temperatures.",
+        "common_misconceptions": "Confusion over how enzyme activity changes with temperature."
+      },
+      "skill_requirement": {
+        "analytical_skills": "Interpreting graphs and relating them to enzyme activity.",
+        "mathematical_skills": "Understanding graphs and trends."
+      },
+      "answer_strategy": {
+        "approach": "Recognize the typical bell-shaped curve for enzyme activity related to temperature.",
+        "elimination_tactics": "Eliminate graphs that do not show the expected rise and fall in activity."
+      },
+      "traps_pitfalls": {
+        "common_mistakes": "Confusing enzyme denaturation with gradual activity decline.",
+        "confusing_elements": "Graphs may look similar but represent different conditions."
+      },
+      "diagram_analysis": {
+        "diagram_presence": "true",
+        "importance": "Critical for answering the question.",
+        "diagram_description": "Graphs showing enzyme activity at various temperatures."
+      }
+    },
+    {
+      "question": "10",
+      "question_text": "The diagram shows a fat globule (P) in one part of the alimentary canal and the same globule (Q) as it appears in another part of the alimentary canal. In which parts of the alimentary canal are P and Q found?",
+      "options": [
+        "A: duodenum, stomach",
+        "B: ileum, oesophagus",
+        "C: oesophagus, ileum",
+        "D: rectum, ileum"
+      ],
+      "correct_answer": "C",
+      "question_type": {
+        "category": "Application",
+        "subtopic": "Digestion and absorption"
+      },
+      "concept_tested": {
+        "core_concept": "Fat digestion and emulsification",
+        "key_principles": "Understanding where fat digestion begins and ends in the alimentary canal."
+      },
+      "knowledge_requirement": {
+        "required_facts": "Fat is emulsified in the duodenum and absorbed in the ileum.",
+        "common_misconceptions": "Confusion over where fats are digested and absorbed."
+      },
+      "skill_requirement": {
+        "analytical_skills": "Relating the diagram to the stages of digestion.",
+        "mathematical_skills": "None"
+      },
+      "answer_strategy": {
+        "approach": "Identify the locations where fat digestion and absorption occur.",
+        "elimination_tactics": "Eliminate parts of the alimentary canal that do not involve fat digestion."
+      },
+      "traps_pitfalls": {
+        "common_mistakes": "Confusing the roles of different parts of the alimentary canal.",
+        "confusing_elements": "The similarity of the names and roles of parts of the canal may cause confusion."
+      },
+      "diagram_analysis": {
+        "diagram_presence": "true",
+        "importance": "Important for understanding fat digestion.",
+        "diagram_description": "Shows fat globules in different stages of digestion."
+      }
+    },
+    {
+    "question": "11",
+      "question_text": "The diagram shows a villus. The arrows show the direction of flow within vessels associated with the villus. Which vessel carries blood to the liver?",
+      "options": [
+        "A: Lymphatic vessel",
+        "B: Capillary",
+        "C: Hepatic portal vein",
+        "D: Vena cava"
+      ],
+      "correct_answer": "D",
+      "question_type": {
+        "category": "Application",
+        "subtopic": "Transport in humans"
+      },
+      "concept_tested": {
+        "core_concept": "Absorption of nutrients and transport to the liver",
+        "key_principles": "Nutrients absorbed from the small intestine are transported to the liver via the hepatic portal vein."
+      },
+      "knowledge_requirement": {
+        "required_facts": "Nutrients are absorbed into the blood and transported to the liver for processing.",
+        "common_misconceptions": "Confusion between the lymphatic system and blood circulation."
+      },
+      "skill_requirement": {
+        "analytical_skills": "Ability to interpret the diagram and apply knowledge of human physiology.",
+        "mathematical_skills": "None"
+      },
+      "answer_strategy": {
+        "approach": "Recognize the role of the hepatic portal vein in nutrient transport.",
+        "elimination_tactics": "Eliminate vessels that are not involved in transporting nutrients to the liver."
+      },
+      "traps_pitfalls": {
+        "common_mistakes": "Confusion between the lymphatic system and circulatory system.",
+        "confusing_elements": "The presence of multiple vessels in the villus can be misleading."
+      },
+      "diagram_analysis": {
+        "diagram_presence": "true",
+        "importance": "Critical for understanding nutrient transport.",
+        "diagram_description": "Shows a villus with vessels indicating the flow of absorbed nutrients."
+      }
+    },
+    {
+      "question": "12",
+      "question_text": "Which row shows what happens in photosynthesis?",
+      "options": [
+        "A: chemical energy to light energy, glucose, starch",
+        "B: chemical energy to light energy, starch, glucose",
+        "C: light energy to chemical energy, glucose, starch",
+        "D: light energy to chemical energy, starch, glucose"
+      ],
+      "correct_answer": "C",
+      "question_type": {
+        "category": "Knowledge recall",
+        "subtopic": "Photosynthesis"
+      },
+      "concept_tested": {
+        "core_concept": "Energy conversion and product formation in photosynthesis",
+        "key_principles": "Photosynthesis converts light energy into chemical energy, producing glucose and storing it as starch."
+      },
+      "knowledge_requirement": {
+        "required_facts": "Photosynthesis converts light energy into glucose, which is stored as starch.",
+        "common_misconceptions": "Students may confuse the forms of energy involved in photosynthesis."
+      },
+      "skill_requirement": {
+        "analytical_skills": "Understanding the energy conversion and products of photosynthesis.",
+        "mathematical_skills": "None"
+      },
+      "answer_strategy": {
+        "approach": "Recall the correct flow of energy and the products of photosynthesis.",
+        "elimination_tactics": "Eliminate options that show incorrect energy conversions or final products."
+      },
+      "traps_pitfalls": {
+        "common_mistakes": "Confusing light and chemical energy transformations.",
+        "confusing_elements": "The complexity of energy conversion may confuse students."
+      },
+      "diagram_analysis": {
+        "diagram_presence": "false",
+        "importance": "",
+        "diagram_description": ""
+      }
+    },
+    {
+      "question": "13",
+      "question_text": "For the stomata of a leaf to open, the guard cells accumulate more potassium ions than the surrounding cells. Which row describes what happens?",
+      "options": [
+        "A: active transport, water moves in, turgid",
+        "B: active transport, water moves out, flaccid",
+        "C: diffusion, water moves in, plasmolysed",
+        "D: diffusion, water moves out, no change"
+      ],
+      "correct_answer": "A",
+      "question_type": {
+        "category": "Application",
+        "subtopic": "Transport in plants"
+      },
+      "concept_tested": {
+        "core_concept": "Guard cell function and stomatal opening",
+        "key_principles": "Stomata open when guard cells accumulate potassium ions, causing water to enter by osmosis, making the cells turgid."
+      },
+      "knowledge_requirement": {
+        "required_facts": "Active transport of potassium ions leads to water entering the guard cells, causing turgidity.",
+        "common_misconceptions": "Students may confuse active transport with diffusion."
+      },
+      "skill_requirement": {
+        "analytical_skills": "Understanding how ion accumulation affects water movement and turgidity.",
+        "mathematical_skills": "None"
+      },
+      "answer_strategy": {
+        "approach": "Recall how potassium ions cause water movement into guard cells, leading to stomatal opening.",
+        "elimination_tactics": "Eliminate options that describe water moving out or using diffusion."
+      },
+      "traps_pitfalls": {
+        "common_mistakes": "Confusing active transport with diffusion or water moving out of guard cells.",
+        "confusing_elements": "The role of water movement in turgidity may cause confusion."
+      },
+      "diagram_analysis": {
+        "diagram_presence": "false",
+        "importance": "",
+        "diagram_description": ""
+      }
+    },
+    {
+      "question": "14",
+      "question_text": "The graph shows how the rate of photosynthesis of a plant varies with light intensity at two different carbon dioxide concentrations. The temperature is kept constant at 20°C. Which factor is limiting the rate of photosynthesis at point X?",
+      "options": [
+        "A: availability of chlorophyll",
+        "B: availability of water",
+        "C: concentration of carbon dioxide",
+        "D: intensity of light"
+      ],
+      "correct_answer": "C",
+      "question_type": {
+        "category": "Analysis",
+        "subtopic": "Photosynthesis"
+      },
+      "concept_tested": {
+        "core_concept": "Limiting factors in photosynthesis",
+        "key_principles": "At point X, light intensity has reached a level where another factor (likely carbon dioxide concentration) is limiting photosynthesis."
+      },
+      "knowledge_requirement": {
+        "required_facts": "Photosynthesis depends on light intensity, CO2 concentration, and other factors, and the limiting factor can shift.",
+        "common_misconceptions": "Students may confuse the role of light and carbon dioxide as limiting factors."
+      },
+      "skill_requirement": {
+        "analytical_skills": "Interpreting graphs to identify limiting factors in biological processes.",
+        "mathematical_skills": "Understanding trends and plateaus in graph data."
+      },
+      "answer_strategy": {
+        "approach": "Identify the point where increasing light intensity no longer increases the rate of photosynthesis.",
+        "elimination_tactics": "Eliminate factors that are not limiting at the given conditions, such as chlorophyll or water."
+      },
+      "traps_pitfalls": {
+        "common_mistakes": "Misinterpreting the graph or confusing limiting factors.",
+        "confusing_elements": "The graph’s complexity may mislead students about which factor is limiting."
+      },
+      "diagram_analysis": {
+        "diagram_presence": "true",
+        "importance": "Critical for interpreting the limiting factor.",
+        "diagram_description": "Graph showing the relationship between light intensity and photosynthesis rate at two CO2 concentrations."
+      }
+    },
+    {
+      "question": "15",
+      "question_text": "The diagrams show a cylindrical net packed with rubber balloons full of air. The structure is used by a teacher to explain wilting. What is represented by the parts of the structure shown?",
+      "options": [
+        "A: cells, cell sap, cell walls, epidermis",
+        "B: cell sap, cells, epidermis, cell walls",
+        "C: cell walls, epidermis, cell sap, cells",
+        "D: epidermis, cell walls, cells, cell sap"
+      ],
+      "correct_answer": "B",
+      "question_type": {
+        "category": "Application",
+        "subtopic": "Transport in plants"
+      },
+      "concept_tested": {
+        "core_concept": "Wilting and its cellular basis",
+        "key_principles": "Wilting occurs when cells lose turgor pressure, causing the plant to droop."
+      },
+      "knowledge_requirement": {
+        "required_facts": "Wilting happens when cells lose water, leading to flaccidity.",
+        "common_misconceptions": "Students may confuse the role of cell walls and cell sap in wilting."
+      },
+      "skill_requirement": {
+        "analytical_skills": "Ability to relate the model of wilting to cellular components.",
+        "mathematical_skills": "None"
+      },
+      "answer_strategy": {
+        "approach": "Recognize the role of cell turgor and its impact on plant structure.",
+        "elimination_tactics": "Eliminate options that mislabel key plant cell structures."
+      },
+      "traps_pitfalls": {
+        "common_mistakes": "Confusion about the roles of cell walls, cell sap, and turgor pressure.",
+        "confusing_elements": "The structure of the model may not directly resemble plant cells, leading to errors."
+      },
+      "diagram_analysis": {
+        "diagram_presence": "true",
+        "importance": "Helps visualize the cellular basis of wilting.",
+        "diagram_description": "Shows balloons and net as a model for wilting in plants."
+      }
+    },
+    {
+      "question": "16",
+      "question_text": "Which feature is a leaf adaptation for living in the desert?",
+      "options": [
+        "A: large size",
+        "B: many stomata",
+        "C: rolled along its length",
+        "D: thin waxy cuticle"
+      ],
+      "correct_answer": "C",
+      "question_type": {
+        "category": "Knowledge recall",
+        "subtopic": "Adaptations of plants"
+      },
+      "concept_tested": {
+        "core_concept": "Adaptations for conserving water",
+        "key_principles": "Desert plants reduce water loss through features like rolled leaves and thick waxy cuticles."
+      },
+      "knowledge_requirement": {
+        "required_facts": "Desert plants have adaptations to conserve water, such as reducing surface area and having fewer stomata.",
+        "common_misconceptions": "Students may assume that more stomata or larger leaves help in desert environments."
+      },
+      "skill_requirement": {
+        "analytical_skills": "Understanding how structural adaptations reduce water loss.",
+        "mathematical_skills": "None"
+      },
+      "answer_strategy": {
+        "approach": "Recognize features that help plants conserve water in arid environments.",
+        "elimination_tactics": "Eliminate options that increase water loss, like many stomata or large size."
+      },
+      "traps_pitfalls": {
+        "common_mistakes": "Assuming that larger leaves or more stomata are beneficial in desert conditions.",
+        "confusing_elements": "The description of features may seem contradictory without understanding their purpose."
+      },
+      "diagram_analysis": {
+        "diagram_presence": "false",
+        "importance": "",
+        "diagram_description": ""
+      }
+    },
+    {
+      "question": "17",
+      "question_text": "The diagram shows the movement of blood through a tissue. At which labelled point is the pressure highest?",
+      "options": [
+        "A: point A",
+        "B: point B",
+        "C: point C",
+        "D: point D"
+      ],
+      "correct_answer": "D",
+      "question_type": {
+        "category": "Application",
+        "subtopic": "Circulatory system"
+      },
+      "concept_tested": {
+        "core_concept": "Blood pressure in different blood vessels",
+        "key_principles": "Blood pressure is highest in arteries and decreases as blood moves through capillaries and veins."
+      },
+      "knowledge_requirement": {
+        "required_facts": "Arteries have the highest blood pressure, and it gradually decreases in capillaries and veins.",
+        "common_misconceptions": "Students may confuse the pressure in arteries, capillaries, and veins."
+      },
+      "skill_requirement": {
+        "analytical_skills": "Interpreting the diagram and applying knowledge of blood pressure.",
+        "mathematical_skills": "None"
+      },
+      "answer_strategy": {
+        "approach": "Recognize that arteries carry blood under the highest pressure.",
+        "elimination_tactics": "Eliminate points that correspond to veins or capillaries, where pressure is lower."
+      },
+      "traps_pitfalls": {
+        "common_mistakes": "Confusion about where blood pressure is highest in the circulatory system.",
+        "confusing_elements": "The diagram may obscure the relative sizes of vessels, leading to errors."
+      },
+      "diagram_analysis": {
+        "diagram_presence": "true",
+        "importance": "Critical for determining the point of highest pressure.",
+        "diagram_description": "Diagram of blood vessels showing flow through tissues."
+      }
+    },
+    {
+      "question": "18",
+      "question_text": "The diagram shows arteries and veins in the human forearm. Which statements apply to a vein in the human forearm?",
+      "options": [
+        "A: carries oxygenated blood, has valves, blood is returning to the heart",
+        "B: carries oxygenated blood, no valves, blood is returning to the heart",
+        "C: carries deoxygenated blood, has valves, blood is returning to the heart",
+        "D: carries deoxygenated blood, no valves, blood is leaving the heart"
+      ],
+      "correct_answer": "C",
+      "question_type": {
+        "category": "Knowledge recall",
+        "subtopic": "Circulatory system"
+      },
+      "concept_tested": {
+        "core_concept": "Vein structure and function",
+        "key_principles": "Veins carry deoxygenated blood (except pulmonary veins), have valves, and return blood to the heart."
+      },
+      "knowledge_requirement": {
+        "required_facts": "Veins have valves to prevent backflow and carry deoxygenated blood back to the heart.",
+        "common_misconceptions": "Students may confuse veins with arteries in terms of oxygenation and the presence of valves."
+      },
+      "skill_requirement": {
+        "analytical_skills": "None",
+        "mathematical_skills": "None"
+      },
+      "answer_strategy": {
+        "approach": "Recognize the key characteristics of veins, including the presence of valves and deoxygenated blood.",
+        "elimination_tactics": "Eliminate options that describe veins carrying oxygenated blood or lacking valves."
+      },
+      "traps_pitfalls": {
+        "common_mistakes": "Confusion between veins and arteries regarding oxygenation and valves.",
+        "confusing_elements": "The presence of valves may be misunderstood in terms of function."
+      },
+      "diagram_analysis": {
+        "diagram_presence": "true",
+        "importance": "Helps visualize the location and function of veins.",
+        "diagram_description": "Shows arteries and veins in the forearm."
+      }
+    },
+    {
+      "question": "19",
+      "question_text": "The graph shows pressure changes in the left atrium and in the left ventricle during one heartbeat. What is the state of the valves in the heart at time X?",
+      "options": [
+        "A: left atrio-ventricular valve closed, semi-lunar valve closed",
+        "B: left atrio-ventricular valve closed, semi-lunar valve open",
+        "C: left atrio-ventricular valve open, semi-lunar valve closed",
+        "D: left atrio-ventricular valve open, semi-lunar valve open"
+      ],
+      "correct_answer": "B",
+      "question_type": {
+        "category": "Analysis",
+        "subtopic": "Circulatory system"
+      },
+      "concept_tested": {
+        "core_concept": "Heart valves and pressure changes",
+        "key_principles": "The atrio-ventricular and semi-lunar valves open and close in response to pressure changes during a heartbeat."
+      },
+      "knowledge_requirement": {
+        "required_facts": "At specific times during the cardiac cycle, valves open or close depending on pressure differences between chambers.",
+        "common_misconceptions": "Students may confuse the timing of valve openings and closings."
+      },
+      "skill_requirement": {
+        "analytical_skills": "Interpreting pressure graphs to understand the state of valves during the cardiac cycle.",
+        "mathematical_skills": "Understanding the relationship between pressure and valve function."
+      },
+      "answer_strategy": {
+        "approach": "Identify whether the pressure conditions would cause the atrio-ventricular and semi-lunar valves to be open or closed.",
+        "elimination_tactics": "Eliminate options where valve states do not match the pressure conditions."
+      },
+      "traps_pitfalls": {
+        "common_mistakes": "Misinterpreting the timing and pressure changes in the heart.",
+        "confusing_elements": "The graph may be confusing due to the overlap in pressure changes between the atrium and ventricle."
+      },
+      "diagram_analysis": {
+        "diagram_presence": "true",
+        "importance": "Critical for understanding the state of heart valves.",
+        "diagram_description": "Graph showing pressure changes in the left atrium and ventricle."
+      }
+    },
+    {
+      "question": "20",
+      "question_text": "Some factors associated with coronary heart disease are listed. Which factors decrease the risk of coronary heart disease?",
+      "options": [
+        "A: 1, 2 and 3",
+        "B: 1, 3 and 5",
+        "C: 2, 3 and 4",
+        "D: 2, 4 and 5"
+      ],
+      "correct_answer": "D",
+      "question_type": {
+        "category": "Application",
+        "subtopic": "Health and disease"
+      },
+      "concept_tested": {
+        "core_concept": "Risk factors for coronary heart disease",
+        "key_principles": "A high intake of fruits and vegetables and low intake of saturated fats reduce the risk of coronary heart disease."
+      },
+      "knowledge_requirement": {
+        "required_facts": "Coronary heart disease risk is decreased by healthy eating habits, exercise, and lower cholesterol.",
+        "common_misconceptions": "Students may confuse risk factors for increasing and decreasing the risk of heart disease."
+      },
+      "skill_requirement": {
+        "analytical_skills": "Ability to evaluate which factors contribute to reducing disease risk.",
+        "mathematical_skills": "None"
+      },
+      "answer_strategy": {
+        "approach": "Identify the factors that are associated with decreasing risk (e.g., fruit and vegetable intake).",
+        "elimination_tactics": "Eliminate options that include factors known to increase risk (e.g., high saturated fats)."
+      },
+      "traps_pitfalls": {
+        "common_mistakes": "Confusing factors that increase and decrease the risk of heart disease.",
+        "confusing_elements": "The similar phrasing of factors may lead to mistakes."
+      },
+      "diagram_analysis": {
+        "diagram_presence": "false",
+        "importance": "",
+        "diagram_description": ""
+      }
+    },
+ {
+      "question": "21",
+      "question_text": "The diagram represents some of the muscles involved with breathing. Which muscles are contracting during breathing in?",
+      "options": [
+        "A: P and Q",
+        "B: Q and R",
+        "C: P and R",
+        "D: P, Q and R"
+      ],
+      "correct_answer": "C",
+      "question_type": {
+        "category": "Application",
+        "subtopic": "Respiration and breathing"
+      },
+      "concept_tested": {
+        "core_concept": "Mechanism of inhalation",
+        "key_principles": "Inhalation occurs when the diaphragm and external intercostal muscles contract, increasing thoracic volume."
+      },
+      "knowledge_requirement": {
+        "required_facts": "During inhalation, the diaphragm contracts and moves downwards, while the external intercostal muscles raise the ribs.",
+        "common_misconceptions": "Students may confuse the role of internal and external intercostal muscles in breathing."
+      },
+      "skill_requirement": {
+        "analytical_skills": "Ability to associate muscle contraction with breathing mechanics.",
+        "mathematical_skills": "None"
+      },
+      "answer_strategy": {
+        "approach": "Identify which muscles contract to increase thoracic volume during inhalation.",
+        "elimination_tactics": "Eliminate options that include muscles involved in exhalation (e.g., internal intercostal muscles)."
+      },
+      "traps_pitfalls": {
+        "common_mistakes": "Confusion between muscles used in inhalation and exhalation.",
+        "confusing_elements": "The similar roles of the intercostal muscles may lead to confusion."
+      },
+      "diagram_analysis": {
+        "diagram_presence": "true",
+        "importance": "Helps visualize the muscles involved in inhalation.",
+        "diagram_description": "Shows the muscles contracting during breathing in."
+      }
+    },
+    {
+      "question": "22",
+      "question_text": "What helps oxygen to be absorbed rapidly into the blood in the lungs?",
+      "options": [
+        "A: Air breathed in has less oxygen than air breathed out.",
+        "B: Alveoli have thick walls and a large surface area.",
+        "C: Alveoli have thin walls and a large surface area.",
+        "D: The concentration of oxygen in the blood is higher than in the alveoli."
+      ],
+      "correct_answer": "C",
+      "question_type": {
+        "category": "Knowledge recall",
+        "subtopic": "Respiration"
+      },
+      "concept_tested": {
+        "core_concept": "Mechanism of gas exchange in the lungs",
+        "key_principles": "Gas exchange in the alveoli is facilitated by thin walls, a large surface area, and a concentration gradient."
+      },
+      "knowledge_requirement": {
+        "required_facts": "Oxygen is absorbed quickly because the alveoli have thin walls and a large surface area, maintaining a steep concentration gradient.",
+        "common_misconceptions": "Students may confuse the role of alveolar wall thickness or the oxygen concentration gradient."
+      },
+      "skill_requirement": {
+        "analytical_skills": "None",
+        "mathematical_skills": "None"
+      },
+      "answer_strategy": {
+        "approach": "Recall the adaptations of the alveoli that maximize gas exchange efficiency.",
+        "elimination_tactics": "Eliminate options that describe incorrect features, such as thick walls or reversed concentration gradients."
+      },
+      "traps_pitfalls": {
+        "common_mistakes": "Confusing the direction of oxygen movement or the role of wall thickness.",
+        "confusing_elements": "The similarity between correct and incorrect wall thickness may cause errors."
+      },
+      "diagram_analysis": {
+        "diagram_presence": "false",
+        "importance": "",
+        "diagram_description": ""
+      }
+    },
+    {
+      "question": "23",
+      "question_text": "The diagram shows changes in the volume of a person’s lungs over a period of two minutes. What could cause the change in the pattern of the graph between points X and Y?",
+      "options": [
+        "A: changing from running to walking",
+        "B: changing from walking to running",
+        "C: increased frequency of contractions of the internal intercostal muscles",
+        "D: increased strength of contractions of the internal intercostal muscles"
+      ],
+      "correct_answer": "B",
+      "question_type": {
+        "category": "Analysis",
+        "subtopic": "Respiration and breathing"
+      },
+      "concept_tested": {
+        "core_concept": "Changes in lung volume during exercise",
+        "key_principles": "During exercise, lung volume increases due to deeper and more frequent contractions of the respiratory muscles."
+      },
+      "knowledge_requirement": {
+        "required_facts": "The internal intercostal muscles are involved in forced exhalation, and their increased strength or frequency reflects heavier breathing during exercise.",
+        "common_misconceptions": "Students may confuse the roles of internal and external intercostal muscles in respiration."
+      },
+      "skill_requirement": {
+        "analytical_skills": "Ability to interpret the graph and associate changes in lung volume with breathing rate and strength.",
+        "mathematical_skills": "Understanding graphical representations of physiological processes."
+      },
+      "answer_strategy": {
+        "approach": "Identify the increase in lung volume as a result of more intense physical activity.",
+        "elimination_tactics": "Eliminate options that describe a decrease in activity, such as walking instead of running."
+      },
+      "traps_pitfalls": {
+        "common_mistakes": "Misinterpreting the graph and confusing internal and external intercostal muscle function.",
+        "confusing_elements": "The similar roles of different respiratory muscles can cause confusion."
+      },
+      "diagram_analysis": {
+        "diagram_presence": "true",
+        "importance": "Critical for interpreting changes in lung volume during exercise.",
+        "diagram_description": "Graph showing lung volume changes over time."
+      }
+    },
+    {
+      "question": "24",
+      "question_text": "During a sunny day, which substance is excreted from a leaf?",
+      "options": [
+        "A: carbon dioxide",
+        "B: nitrogen",
+        "C: oxygen",
+        "D: sucrose"
+      ],
+      "correct_answer": "C",
+      "question_type": {
+        "category": "Knowledge recall",
+        "subtopic": "Photosynthesis"
+      },
+      "concept_tested": {
+        "core_concept": "Substances produced and released during photosynthesis",
+        "key_principles": "Oxygen is released as a byproduct of photosynthesis during daylight."
+      },
+      "knowledge_requirement": {
+        "required_facts": "Photosynthesis produces oxygen as a waste product during the day.",
+        "common_misconceptions": "Students may confuse carbon dioxide with oxygen as the substance excreted during photosynthesis."
+      },
+      "skill_requirement": {
+        "analytical_skills": "None",
+        "mathematical_skills": "None"
+      },
+      "answer_strategy": {
+        "approach": "Recall that oxygen is released during the light-dependent stage of photosynthesis.",
+        "elimination_tactics": "Eliminate substances that are not involved in photosynthesis or excreted (e.g., nitrogen, sucrose)."
+      },
+      "traps_pitfalls": {
+        "common_mistakes": "Confusing oxygen with carbon dioxide, especially in the context of plant respiration.",
+        "confusing_elements": "Students may incorrectly associate carbon dioxide with excretion during photosynthesis."
+      },
+      "diagram_analysis": {
+        "diagram_presence": "false",
+        "importance": "",
+        "diagram_description": ""
+      }
+    },
+    {
+      "question": "25",
+      "question_text": "Which process is not a result of negative feedback?",
+      "options": [
+        "A: A decrease in the surrounding temperature leads to a decrease in respiration rate.",
+        "B: A decrease in the surrounding temperature leads to a decrease in sweating.",
+        "C: A decrease in the surrounding temperature leads to a decrease in blood flow through the skin surface.",
+        "D: A decrease in the surrounding temperature leads to shivering."
+      ],
+      "correct_answer": "A",
+      "question_type": {
+        "category": "Application",
+        "subtopic": "Homeostasis"
+      },
+      "concept_tested": {
+        "core_concept": "Negative feedback mechanisms",
+        "key_principles": "Negative feedback regulates body temperature by reversing changes in conditions. Shivering is an active process that generates heat and is not a negative feedback mechanism."
+      },
+      "knowledge_requirement": {
+        "required_facts": "Negative feedback involves a response that counteracts a change in conditions, while shivering is a process that actively generates heat.",
+        "common_misconceptions": "Students may incorrectly identify shivering as a negative feedback response."
+      },
+      "skill_requirement": {
+        "analytical_skills": "Understanding the role of feedback in physiological processes.",
+        "mathematical_skills": "None"
+      },
+      "answer_strategy": {
+        "approach": "Identify which responses counteract changes in temperature and which generate heat directly.",
+        "elimination_tactics": "Eliminate processes that are direct actions (e.g., shivering) rather than feedback responses."
+      },
+      "traps_pitfalls": {
+        "common_mistakes": "Confusing active processes like shivering with passive feedback mechanisms.",
+        "confusing_elements": "The term 'feedback' can be misunderstood to include all temperature regulation processes."
+      },
+      "diagram_analysis": {
+        "diagram_presence": "false",
+        "importance": "",
+        "diagram_description": ""
+      }
+    },
+    {
+      "question": "26",
+      "question_text": "The diagram represents a simple reflex arc. What is the sequence of nerve cells through which an impulse passes during a reflex action?",
+      "options": [
+        "A: P, Q, R",
+        "B: Q, R, P",
+        "C: Q, P, R",
+        "D: R, P, Q"
+      ],
+      "correct_answer": "D",
+      "question_type": {
+        "category": "Knowledge recall",
+        "subtopic": "Nervous system"
+      },
+      "concept_tested": {
+        "core_concept": "Reflex arc and nerve pathways",
+        "key_principles": "A reflex arc follows a specific pathway: sensory neuron, relay neuron, and motor neuron."
+      },
+      "knowledge_requirement": {
+        "required_facts": "A reflex arc begins with a sensory neuron, passes through a relay neuron, and ends with a motor neuron.",
+        "common_misconceptions": "Students may confuse the order of neurons in the reflex arc."
+      },
+      "skill_requirement": {
+        "analytical_skills": "Understanding the flow of nerve impulses through the reflex arc.",
+        "mathematical_skills": "None"
+      },
+      "answer_strategy": {
+        "approach": "Recall the correct sequence of neurons in a reflex arc.",
+        "elimination_tactics": "Eliminate options that do not follow the sensory-relay-motor neuron sequence."
+      },
+      "traps_pitfalls": {
+        "common_mistakes": "Confusing the order of neurons or misinterpreting the diagram.",
+        "confusing_elements": "The diagram may not make the role of each neuron clear, leading to confusion."
+      },
+      "diagram_analysis": {
+        "diagram_presence": "true",
+        "importance": "Helps visualize the nerve pathway in a reflex action.",
+        "diagram_description": "Shows the simple reflex arc with labeled neurons."
+      }
+    },
+    {
+      "question": "27",
+      "question_text": "The diagram shows the density of rods and cones across a horizontal section of the retina. What is the position of the optic nerve?",
+      "options": [
+        "A: the point with no rods or cones",
+        "B: the point with the highest density of rods",
+        "C: the point with the highest density of cones",
+        "D: the point where rods outnumber cones"
+      ],
+      "correct_answer": "B",
+      "question_type": {
+        "category": "Application",
+        "subtopic": "Senses"
+      },
+      "concept_tested": {
+        "core_concept": "Blind spot and photoreceptor distribution in the retina",
+        "key_principles": "The optic nerve is located at the blind spot, where there are no rods or cones."
+      },
+      "knowledge_requirement": {
+        "required_facts": "The optic nerve exits at the blind spot, a region devoid of photoreceptors.",
+        "common_misconceptions": "Students may confuse the optic nerve with areas of high photoreceptor density."
+      },
+      "skill_requirement": {
+        "analytical_skills": "Interpreting diagrams showing photoreceptor distribution.",
+        "mathematical_skills": "None"
+      },
+      "answer_strategy": {
+        "approach": "Identify the blind spot as the location where the optic nerve exits the retina.",
+        "elimination_tactics": "Eliminate options that describe areas with rods or cones, as these cannot be the location of the optic nerve."
+      },
+      "traps_pitfalls": {
+        "common_mistakes": "Confusing the blind spot with areas of high rod or cone density.",
+        "confusing_elements": "The presence of different photoreceptors may lead to errors in identifying the blind spot."
+      },
+      "diagram_analysis": {
+        "diagram_presence": "true",
+        "importance": "Critical for identifying the position of the optic nerve.",
+        "diagram_description": "Shows the density of rods and cones across a section of the retina."
+      }
+    },
+    {
+      "question": "28",
+      "question_text": "What is not an effect of the hormone adrenaline?",
+      "options": [
+        "A: decreased production of sweat",
+        "B: dilated pupils",
+        "C: increased blood glucose",
+        "D: increased pulse rate"
+      ],
+      "correct_answer": "A",
+      "question_type": {
+        "category": "Knowledge recall",
+        "subtopic": "Endocrine system"
+      },
+      "concept_tested": {
+        "core_concept": "Effects of adrenaline",
+        "key_principles": "Adrenaline prepares the body for 'fight or flight' by increasing pulse rate, blood glucose, and dilating pupils, but does not reduce sweat production."
+      },
+      "knowledge_requirement": {
+        "required_facts": "Adrenaline increases heart rate, glucose production, and dilates pupils, but it does not affect sweat production directly.",
+        "common_misconceptions": "Students may think adrenaline affects all bodily functions, including sweat production."
+      },
+      "skill_requirement": {
+        "analytical_skills": "None",
+        "mathematical_skills": "None"
+      },
+      "answer_strategy": {
+        "approach": "Recall the typical effects of adrenaline on the body during the 'fight or flight' response.",
+        "elimination_tactics": "Eliminate options that describe known effects of adrenaline (e.g., increased pulse, dilated pupils)."
+      },
+      "traps_pitfalls": {
+        "common_mistakes": "Assuming adrenaline affects all body systems, including sweat glands.",
+        "confusing_elements": "The widespread effects of adrenaline may lead to the assumption that it reduces sweating."
+      },
+      "diagram_analysis": {
+        "diagram_presence": "false",
+        "importance": "",
+        "diagram_description": ""
+      }
+    },
+    {
+      "question": "29",
+      "question_text": "The diagrams show pollen grains from three different species of plant as they appear under the microscope. The diagrams are all to the same scale. Which pollen grains are involved in insect-pollination?",
+      "options": [
+        "A: 1 and 2",
+        "B: 1 only",
+        "C: 2 and 3",
+        "D: 3 only"
+      ],
+      "correct_answer": "B",
+      "question_type": {
+        "category": "Application",
+        "subtopic": "Reproduction in plants"
+      },
+      "concept_tested": {
+        "core_concept": "Pollen grain structure and pollination methods",
+        "key_principles": "Insect-pollinated plants typically have larger, sticky pollen grains to adhere to insects."
+      },
+      "knowledge_requirement": {
+        "required_facts": "Insect-pollinated plants produce large, sticky pollen grains to ensure attachment to insect bodies.",
+        "common_misconceptions": "Students may confuse wind-pollinated pollen (small and smooth) with insect-pollinated pollen."
+      },
+      "skill_requirement": {
+        "analytical_skills": "Ability to interpret visual representations of pollen grains.",
+        "mathematical_skills": "None"
+      },
+      "answer_strategy": {
+        "approach": "Identify larger, stickier pollen grains that would be suited for insect pollination.",
+        "elimination_tactics": "Eliminate pollen grains that are small and lightweight, suited for wind pollination."
+      },
+      "traps_pitfalls": {
+        "common_mistakes": "Confusing the features of insect-pollinated and wind-pollinated pollen.",
+        "confusing_elements": "The appearance of pollen grains under the microscope may lead to errors in judgment."
+      },
+      "diagram_analysis": {
+        "diagram_presence": "true",
+        "importance": "Critical for identifying pollen grain size and structure.",
+        "diagram_description": "Microscopic view of pollen grains from different species."
+      }
+    },
+    {
+      "question": "30",
+      "question_text": "Where does the placenta allow the exchange of materials to take place between mother and fetus?",
+      "options": [
+        "A: oviduct wall",
+        "B: umbilical cord",
+        "C: uterus wall",
+        "D: vagina wall"
+      ],
+      "correct_answer": "C",
+      "question_type": {
+        "category": "Knowledge recall",
+        "subtopic": "Reproduction in humans"
+      },
+      "concept_tested": {
+        "core_concept": "Function of the placenta",
+        "key_principles": "The placenta allows the exchange of nutrients, gases, and waste between the mother and fetus through the uterus wall."
+      },
+      "knowledge_requirement": {
+        "required_facts": "The placenta facilitates exchange of materials between the mother and fetus through the uterine wall.",
+        "common_misconceptions": "Students may confuse the roles of the umbilical cord and the uterus wall."
+      },
+      "skill_requirement": {
+        "analytical_skills": "None",
+        "mathematical_skills": "None"
+      },
+      "answer_strategy": {
+        "approach": "Recall that the placenta is attached to the uterus wall, allowing exchange through this surface.",
+        "elimination_tactics": "Eliminate options that do not involve the uterus wall in material exchange."
+      },
+      "traps_pitfalls": {
+        "common_mistakes": "Confusing the roles of the umbilical cord and placenta in material exchange.",
+        "confusing_elements": "The similar roles of different structures in reproduction can be misleading."
+      },
+      "diagram_analysis": {
+        "diagram_presence": "false",
+        "importance": "",
+        "diagram_description": ""
+      }
+    },
+        {
+      "question": "31",
+      "question_text": "When a cell divides, these events occur. 1. The DNA inside the cell is duplicated exactly. 2. Daughter cells are produced with the same chromosome number as the parent cell. Which type of division has occurred?",
+      "options": [
+        "A: meiosis producing genetically different cells",
+        "B: meiosis producing genetically identical cells",
+        "C: mitosis producing genetically different cells",
+        "D: mitosis producing genetically identical cells"
+      ],
+      "correct_answer": "D",
+      "question_type": {
+        "category": "Knowledge recall",
+        "subtopic": "Cell division"
+      },
+      "concept_tested": {
+        "core_concept": "Mitosis vs meiosis",
+        "key_principles": "Mitosis produces genetically identical cells, while meiosis produces genetically different cells."
+      },
+      "knowledge_requirement": {
+        "required_facts": "Mitosis produces two genetically identical daughter cells, and meiosis results in four genetically different daughter cells.",
+        "common_misconceptions": "Confusing the results of mitosis with meiosis."
+      },
+      "skill_requirement": {
+        "analytical_skills": "Ability to differentiate between types of cell division based on the result.",
+        "mathematical_skills": "None"
+      },
+      "answer_strategy": {
+        "approach": "Recognize that the production of identical cells with the same chromosome number indicates mitosis.",
+        "elimination_tactics": "Eliminate options that involve meiosis or genetic differences."
+      },
+      "traps_pitfalls": {
+        "common_mistakes": "Confusing mitosis with meiosis.",
+        "confusing_elements": "The description of cell division may lead students to mistakenly identify meiosis as the answer."
+      },
+      "diagram_analysis": {
+        "diagram_presence": "false",
+        "importance": "",
+        "diagram_description": ""
+      }
+    },
+    {
+      "question": "32",
+      "question_text": "Two black female mice were mated with the same black male. One female had nine offspring, all of which were black. The other female had six black and two white offspring. Which cross represents the parents of the all-black family?",
+      "options": [
+        "A: bb x Bb",
+        "B: Bb x Bb",
+        "C: Bb x BB",
+        "D: BB x Bb"
+      ],
+      "correct_answer": "D",
+      "question_type": {
+        "category": "Application",
+        "subtopic": "Genetics"
+      },
+      "concept_tested": {
+        "core_concept": "Mendelian inheritance and dominance",
+        "key_principles": "Crossing two black mice, one of which is homozygous (BB) and one heterozygous (Bb), will always produce black offspring."
+      },
+      "knowledge_requirement": {
+        "required_facts": "The black allele (B) is dominant over the white allele (b), and the BB and Bb genotypes will both produce black mice.",
+        "common_misconceptions": "Confusing the results of different genotypic crosses."
+      },
+      "skill_requirement": {
+        "analytical_skills": "Ability to determine inheritance patterns using Punnett squares or logic.",
+        "mathematical_skills": "Basic probability for predicting offspring ratios."
+      },
+      "answer_strategy": {
+        "approach": "Identify that the cross resulting in all-black offspring must involve at least one homozygous black (BB) parent.",
+        "elimination_tactics": "Eliminate options where two heterozygous (Bb) parents could produce white offspring."
+      },
+      "traps_pitfalls": {
+        "common_mistakes": "Confusing heterozygous and homozygous outcomes.",
+        "confusing_elements": "The similarity between Bb and BB may cause confusion."
+      },
+      "diagram_analysis": {
+        "diagram_presence": "false",
+        "importance": "",
+        "diagram_description": ""
+      }
+    },
+    {
+      "question": "33",
+      "question_text": "The whole of an island’s population of short-haired bumblebees is descended from just two parents. These were introduced from the mainland. Which statement about the island’s short-haired bumblebee population, compared with that of the mainland, is correct?",
+      "options": [
+        "A: The population is less in danger of collapsing from disease.",
+        "B: The population is more able to adapt to environmental changes.",
+        "C: The population shows more genetic variety.",
+        "D: The population will adapt to environmental changes more slowly."
+      ],
+      "correct_answer": "D",
+      "question_type": {
+        "category": "Application",
+        "subtopic": "Evolution and genetics"
+      },
+      "concept_tested": {
+        "core_concept": "Genetic diversity and population adaptation",
+        "key_principles": "A smaller population descended from just two individuals will have less genetic variation and will adapt more slowly to changes."
+      },
+      "knowledge_requirement": {
+        "required_facts": "A small population bottleneck reduces genetic diversity, leading to slower adaptation and higher vulnerability to disease.",
+        "common_misconceptions": "Students may assume that fewer individuals automatically means more adaptability."
+      },
+      "skill_requirement": {
+        "analytical_skills": "Understanding the consequences of population bottlenecks on genetic diversity.",
+        "mathematical_skills": "None"
+      },
+      "answer_strategy": {
+        "approach": "Recognize that reduced genetic diversity results in slower adaptation and higher disease vulnerability.",
+        "elimination_tactics": "Eliminate options that imply increased genetic variety or adaptability."
+      },
+      "traps_pitfalls": {
+        "common_mistakes": "Assuming that a smaller population has advantages in adaptability.",
+        "confusing_elements": "The idea of faster adaptation may seem logical but is incorrect with less genetic variety."
+      },
+      "diagram_analysis": {
+        "diagram_presence": "false",
+        "importance": "",
+        "diagram_description": ""
+      }
+    },
+    {
+      "question": "34",
+      "question_text": "Which statement is evidence that genes are copied and passed on to the next generation?",
+      "options": [
+        "A: Asexual reproduction produces genetically identical offspring.",
+        "B: Different alleles of a gene can produce variation in phenotype.",
+        "C: Each species of a plant or animal has a fixed number of chromosomes.",
+        "D: Sexual reproduction produces genetically different offspring."
+      ],
+      "correct_answer": "A",
+      "question_type": {
+        "category": "Knowledge recall",
+        "subtopic": "Genetics"
+      },
+      "concept_tested": {
+        "core_concept": "Gene transmission and reproduction",
+        "key_principles": "Genetic information is copied and passed down through both sexual and asexual reproduction."
+      },
+      "knowledge_requirement": {
+        "required_facts": "Asexual reproduction produces identical offspring by copying the parent’s genes, while sexual reproduction involves the combination of genes from two parents.",
+        "common_misconceptions": "Confusing the mechanisms of asexual and sexual reproduction."
+      },
+      "skill_requirement": {
+        "analytical_skills": "None",
+        "mathematical_skills": "None"
+      },
+      "answer_strategy": {
+        "approach": "Identify the evidence showing that genes are passed on through reproduction.",
+        "elimination_tactics": "Eliminate options that do not directly indicate gene copying or transmission (e.g., fixed chromosome number)."
+      },
+      "traps_pitfalls": {
+        "common_mistakes": "Confusing sexual and asexual reproduction as mechanisms for genetic transmission.",
+        "confusing_elements": "The wording of the options may cause confusion between mechanisms of variation and gene transmission."
+      },
+      "diagram_analysis": {
+        "diagram_presence": "false",
+        "importance": "",
+        "diagram_description": ""
+      }
+    },
+    {
+      "question": "35",
+      "question_text": "Which statements describe an allele?",
+      "options": [
+        "A: an alternative form of a gene, copied during cell division, part of a DNA molecule",
+        "B: an alternative form of a gene, copied during cell division, not part of a DNA molecule",
+        "C: an alternative form of a gene, not copied during cell division, part of a DNA molecule",
+        "D: not an alternative form of a gene, copied during cell division, part of a DNA molecule"
+      ],
+      "correct_answer": "A",
+      "question_type": {
+        "category": "Knowledge recall",
+        "subtopic": "Genetics"
+      },
+      "concept_tested": {
+        "core_concept": "Alleles and their role in inheritance",
+        "key_principles": "An allele is a variant form of a gene that is copied during cell division and is part of the DNA molecule."
+      },
+      "knowledge_requirement": {
+        "required_facts": "Alleles are different versions of a gene and are inherited through cell division, being part of DNA molecules.",
+        "common_misconceptions": "Students may confuse alleles with other genetic terms like genes or chromosomes."
+      },
+      "skill_requirement": {
+        "analytical_skills": "None",
+        "mathematical_skills": "None"
+      },
+      "answer_strategy": {
+        "approach": "Identify that an allele is an alternative form of a gene and part of DNA, and is copied during cell division.",
+        "elimination_tactics": "Eliminate options that describe alleles as not part of DNA or not copied during cell division."
+      },
+      "traps_pitfalls": {
+        "common_mistakes": "Confusing alleles with genes or DNA itself.",
+        "confusing_elements": "The similarity between terms like 'gene', 'allele', and 'chromosome' can cause errors."
+      },
+      "diagram_analysis": {
+        "diagram_presence": "false",
+        "importance": "",
+        "diagram_description": ""
+      }
+    },
+    {
+      "question": "36",
+      "question_text": "The diagram shows the order of bases along part of one strand of DNA: A―C―T―T―A―G―A―T. What is the order of bases on the corresponding part of the other strand?",
+      "options": [
+        "A: A―C―T―T―A―G―A―T",
+        "B: C―A―G―G―C―T―C―G",
+        "C: T―A―G―A―T―T―C―A",
+        "D: T―G―A―A―T―C―T―A"
+      ],
+      "correct_answer": "D",
+      "question_type": {
+        "category": "Application",
+        "subtopic": "Genetics"
+      },
+      "concept_tested": {
+        "core_concept": "Complementary base pairing in DNA",
+        "key_principles": "In DNA, adenine (A) pairs with thymine (T) and cytosine (C) pairs with guanine (G)."
+      },
+      "knowledge_requirement": {
+        "required_facts": "DNA base pairing follows strict rules: A with T and C with G.",
+        "common_misconceptions": "Students may incorrectly pair bases or confuse RNA with DNA base pairing."
+      },
+      "skill_requirement": {
+        "analytical_skills": "Ability to apply base pairing rules to DNA sequences.",
+        "mathematical_skills": "None"
+      },
+      "answer_strategy": {
+        "approach": "Apply the complementary base pairing rules to the given DNA strand.",
+        "elimination_tactics": "Eliminate options that do not follow A-T and C-G pairing."
+      },
+      "traps_pitfalls": {
+        "common_mistakes": "Misapplying the base pairing rules or confusing DNA with RNA.",
+        "confusing_elements": "The similar sequences may cause confusion without careful attention to base pairing rules."
+      },
+      "diagram_analysis": {
+        "diagram_presence": "false",
+        "importance": "",
+        "diagram_description": ""
+      }
+    },
+    {
+      "question": "37",
+      "question_text": "The diagram shows the flow of substances within an ecosystem. The circles represent trophic levels. Which circle represents herbivores?",
+      "options": [
+        "A: Circle A",
+        "B: Circle B",
+        "C: Circle C",
+        "D: Circle D"
+      ],
+      "correct_answer": "C",
+      "question_type": {
+        "category": "Application",
+        "subtopic": "Ecology"
+      },
+      "concept_tested": {
+        "core_concept": "Trophic levels and energy flow in ecosystems",
+        "key_principles": "Herbivores occupy the second trophic level, feeding directly on producers."
+      },
+      "knowledge_requirement": {
+        "required_facts": "Herbivores are primary consumers, feeding on producers in the second trophic level.",
+        "common_misconceptions": "Students may confuse herbivores with carnivores or other trophic levels."
+      },
+      "skill_requirement": {
+        "analytical_skills": "Ability to interpret trophic level diagrams and identify the correct level for herbivores.",
+        "mathematical_skills": "None"
+      },
+      "answer_strategy": {
+        "approach": "Identify the second trophic level as herbivores in the energy flow diagram.",
+        "elimination_tactics": "Eliminate options that correspond to producers or higher-level consumers."
+      },
+      "traps_pitfalls": {
+        "common_mistakes": "Misidentifying herbivores as being at a higher or lower trophic level.",
+        "confusing_elements": "The flow of energy between levels may be confusing if not familiar with the food chain structure."
+      },
+      "diagram_analysis": {
+        "diagram_presence": "true",
+        "importance": "Essential for identifying trophic levels in the ecosystem.",
+        "diagram_description": "Shows trophic levels and the flow of substances in an ecosystem."
+      }
+    },
+    {
+      "question": "38",
+      "question_text": "The diagram shows part of the carbon cycle. What are the processes X and Y?",
+      "options": [
+        "A: X = photosynthesis, Y = decomposition",
+        "B: X = photosynthesis, Y = excretion",
+        "C: X = respiration, Y = photosynthesis",
+        "D: X = respiration, Y = respiration"
+      ],
+      "correct_answer": "D",
+      "question_type": {
+        "category": "Application",
+        "subtopic": "Ecology"
+      },
+      "concept_tested": {
+        "core_concept": "Carbon cycle processes",
+        "key_principles": "The carbon cycle involves processes like photosynthesis, respiration, and decomposition, which move carbon between living organisms and the atmosphere."
+      },
+      "knowledge_requirement": {
+        "required_facts": "Photosynthesis removes carbon from the atmosphere, while respiration and decomposition return it.",
+        "common_misconceptions": "Students may confuse the roles of different processes in the carbon cycle."
+      },
+      "skill_requirement": {
+        "analytical_skills": "Ability to interpret the carbon cycle diagram and identify the processes involved.",
+        "mathematical_skills": "None"
+      },
+      "answer_strategy": {
+        "approach": "Recognize that photosynthesis removes carbon from the atmosphere and respiration returns it.",
+        "elimination_tactics": "Eliminate options that do not follow the correct flow of carbon between processes."
+      },
+      "traps_pitfalls": {
+        "common_mistakes": "Confusing the direction of carbon flow in photosynthesis and respiration.",
+        "confusing_elements": "The similarity between processes may lead to confusion in interpreting the diagram."
+      },
+      "diagram_analysis": {
+        "diagram_presence": "true",
+        "importance": "Critical for understanding the carbon cycle and the role of different processes.",
+        "diagram_description": "Shows the carbon cycle with labeled processes X and Y."
+      }
+    },
+    {
+      "question": "39",
+      "question_text": "A farmer is growing wheat in a field. The farmer uses insecticides to kill insect pests and chemicals to kill weeds in the field. Which statements about this field are correct?",
+      "options": [
+        "A: 1 and 2 only",
+        "B: 1 and 3 only",
+        "C: 2 and 3 only",
+        "D: 1, 2 and 3"
+      ],
+      "correct_answer": "B",
+      "question_type": {
+        "category": "Application",
+        "subtopic": "Agriculture and ecology"
+      },
+      "concept_tested": {
+        "core_concept": "Food chains and human impact on ecosystems",
+        "key_principles": "The use of insecticides and weed killers affects multiple trophic levels, from producers to consumers."
+      },
+      "knowledge_requirement": {
+        "required_facts": "Producers (plants) provide energy for the ecosystem, and chemicals used by humans can disrupt food chains.",
+        "common_misconceptions": "Students may confuse the roles of producers and consumers in ecosystems."
+      },
+      "skill_requirement": {
+        "analytical_skills": "Understanding the ecological impact of agricultural practices.",
+        "mathematical_skills": "None"
+      },
+      "answer_strategy": {
+        "approach": "Identify how the use of chemicals affects producers (plants) and consumers (insects and other animals).",
+        "elimination_tactics": "Eliminate statements that do not correctly describe the ecological relationships in the field."
+      },
+      "traps_pitfalls": {
+        "common_mistakes": "Assuming that insecticides and weed killers only affect target species.",
+        "confusing_elements": "The role of different species in the food chain may cause confusion."
+      },
+      "diagram_analysis": {
+        "diagram_presence": "false",
+        "importance": "",
+        "diagram_description": ""
+      }
+    },
+    {
+      "question": "40",
+      "question_text": "The diagram shows how sewage is treated. Why is air bubbled through the aeration tank?",
+      "options": [
+        "A: to encourage microorganisms to reproduce quickly",
+        "B: to float the sludge",
+        "C: to settle the sludge",
+        "D: to stop microorganisms from reproducing too quickly"
+      ],
+      "correct_answer": "A",
+      "question_type": {
+        "category": "Application",
+        "subtopic": "Microbiology and human impact"
+      },
+      "concept_tested": {
+        "core_concept": "Sewage treatment and microorganism activity",
+        "key_principles": "Aerating sewage allows microorganisms to break down waste material more efficiently by providing oxygen for respiration."
+      },
+      "knowledge_requirement": {
+        "required_facts": "Microorganisms in sewage treatment break down waste material through aerobic respiration, requiring oxygen.",
+        "common_misconceptions": "Students may assume that air bubbling stops microbial growth."
+      },
+      "skill_requirement": {
+        "analytical_skills": "Understanding the role of oxygen in microbial respiration during sewage treatment.",
+        "mathematical_skills": "None"
+      },
+      "answer_strategy": {
+        "approach": "Recognize that air provides oxygen for microorganisms to break down waste efficiently.",
+        "elimination_tactics": "Eliminate options that describe incorrect purposes for aerating the sewage."
+      },
+      "traps_pitfalls": {
+        "common_mistakes": "Confusing the purpose of aeration with sludge settling or floating.",
+        "confusing_elements": "The role of aeration in sewage treatment may be misunderstood."
+      },
+      "diagram_analysis": {
+        "diagram_presence": "true",
+        "importance": "Helps visualize the role of the aeration tank in sewage treatment.",
+        "diagram_description": "Shows the process of sewage treatment with aeration."
+      }
+    }
+
+  ]
+}

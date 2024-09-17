@@ -1,0 +1,40 @@
+questions:
+  - question: "{{ question_number }}"
+    question_text: "{{ Enter the question text here }}"
+
+    options:
+          - "{{ Option A }}"
+          - "{{ Option B }}"
+          - "{{ Option C }}"
+          - "{{ Option D }}"
+
+    correct_answer: "{{ Specify the correct answer (e.g., A) }}"
+
+    question_type:
+      category: "{{ Enter the type of question (e.g., Knowledge recall, Application) }}"
+      subtopic: "{{ Enter the subtopic, comma-separated (e.g., Cell biology, Genetics) }}"
+
+    concept_tested:
+      core_concept: "{{ What core concept or principle is being tested? }}"
+      key_principles: "{{ What are the key principles or knowledge areas needed to answer the question? }}"
+
+    knowledge_requirement:
+      required_facts: "{{ What specific knowledge or facts are required to answer the question? }}"
+      common_misconceptions: "{{ What are the common misconceptions related to this question? }}"
+
+    skill_requirement:
+      analytical_skills: "{{ What analytical or cognitive skills are needed? }}"
+      mathematical_skills: "{{ What mathematical skills, if any, are needed? }}"
+
+    answer_strategy:
+      approach: "{{ Describe how a student should approach solving the question. }}"
+      elimination_tactics: "{{ If applicable, suggest elimination strategies for narrowing down answers. }}"
+
+    traps_pitfalls:
+      common_mistakes: "{{ List common mistakes or errors students are likely to make. }}"
+      confusing_elements: "{{ Identify any elements in the question that could be confusing or misleading. }}"
+
+    diagram_analysis:
+      diagram_presence: "{{ true/false }}"
+      importance: "{{ If there's a diagram, describe its importance in answering the question. }}"
+      diagram_description: "{{ Provide a description of the diagram (if applicable) and what it depicts. }}"
