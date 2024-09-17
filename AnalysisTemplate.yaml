@@ -1,0 +1,42 @@
+question: "{{ question_number }}"
+question_text: "{{ question_text }}"
+
+student_answer: "{{ student_answer }}"
+correct_answer: "{{ correct_answer }}"
+
+is_correct: "{{ true/false }}"
+
+analysis:
+  question_type:
+    category: "{{ category }}"
+    subtopic: "{{ subtopic }}"
+
+  reason_for_incorrect_answer:
+    misconception: "{{ Identify if the student's mistake relates to a common misconception. Reference 'common_misconceptions' from the question template }}"
+    core_concept_confusion: "{{ If the student missed the core concept, explain what part they likely misunderstood. Reference 'core_concept' from the question template }}"
+    knowledge_gap: "{{ If the student lacked a required fact, highlight that missing information. Reference 'required_facts' from the question template }}"
+    analytical_skill_weakness: "{{ If the mistake stems from weak analytical skills, explain which skill (e.g., diagram interpretation) needs improvement. Reference 'analytical_skills' from the question template }}"
+    elimination_strategy_failure: "{{ If the student didn’t use elimination tactics effectively, explain what they could have done better. Reference 'elimination_tactics' from the question template }}"
+
+  traps_pitfalls:
+    common_mistakes: "{{ If the student fell for common mistakes, highlight those. Reference 'common_mistakes' from the question template }}"
+    confusing_elements: "{{ If the question had confusing elements the student may have struggled with, identify them. Reference 'confusing_elements' from the question template }}"
+    diagram_analysis:
+      diagram_present: "{{ true/false }}"
+      diagram_importance: "{{ Importance of the diagram, if applicable, in answering the question. Reference 'importance' from the question template }}"
+      diagram_misunderstanding: "{{ If the student struggled with the diagram, explain what went wrong. Reference 'diagram_description' from the question template }}"
+
+  focus_areas_for_improvement:
+    concept_reinforcement: "{{ Highlight the specific concepts or key principles the student should review. Reference 'key_principles' from the question template }}"
+    knowledge_reinforcement: "{{ Suggest additional reading or study materials to reinforce the required facts. Reference 'required_facts' from the question template }}"
+    strategy_improvement: "{{ Suggest improvements to the student's answer strategy or elimination tactics. Reference 'approach' and 'elimination_tactics' from the question template }}"
+    skill_development: "{{ Recommend ways to develop the required skills (e.g., more practice with diagrams, working through similar questions). Reference 'analytical_skills' and 'mathematical_skills' from the question template }}"
+
+patterns_across_questions:
+  recurring_conceptual_errors: "{{ Identify if the student is consistently struggling with certain core concepts or subtopics (e.g., genetics, respiration). Use 'subtopic' and 'core_concept' data to detect patterns across multiple questions. }}"
+  recurring_skill_based_errors: "{{ Highlight if the student is repeatedly weak in areas like analytical or cognitive skills (e.g., diagram interpretation, elimination tactics). Use 'analytical_skills' and 'mathematical_skills' from multiple question analyses. }}"
+  cognitive_biases_identified: "{{ If the student shows biases (e.g., always picking the first answer without critical thinking), highlight those patterns. }}"
+  misconception_patterns: "{{ Note if the student is consistently falling into the same misconceptions across different questions. Reference 'common_misconceptions' from multiple question analyses. }}"
+  improvement_plan:
+    targeted_practice: "{{ Recommend targeted practice areas based on recurring weaknesses across questions. Reference recurring concept, skill, or strategy issues from the patterns above. }}"
+    progress_tracking: "{{ Suggest how the student can track progress (e.g., reviewing certain topics weekly, focusing on subtopics with high error rates). }}"
